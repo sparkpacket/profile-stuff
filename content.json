@@ -1,0 +1,18 @@
+{
+  "title": "sparkpacket — cool stuff",
+  "subtitle": "sparkpacket profile",
+  "intro": "why.",
+  "background": ["radar.gif"],
+  "sections": [
+    {
+      "heading": "Location",
+      "text": "Anchorage, Alaska",
+      "images": ["alaska.jpeg"]
+    },
+  ],
+  "links": [
+    { "label": "Home", "href": "/profile/" },
+    { "label": "Location and Communication", "href": "/profile-location/" },
+    { "label": "Main Website Hub", "href": "/" }
+  ]
+}
